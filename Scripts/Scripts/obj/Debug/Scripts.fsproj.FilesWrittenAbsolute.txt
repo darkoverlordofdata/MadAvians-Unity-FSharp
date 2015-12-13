@@ -1,0 +1,4 @@
+/home/bruce/fsharp/MadAvians/Assets/Dlls/Scripts.dll.mdb
+/home/bruce/fsharp/MadAvians/Assets/Dlls/Scripts.dll
+/home/bruce/fsharp/MadAvians/Scripts/Scripts/obj/Debug/Scripts.dll
+/home/bruce/fsharp/MadAvians/Scripts/Scripts/obj/Debug/Scripts.dll.mdb

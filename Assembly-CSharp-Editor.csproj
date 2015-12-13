@@ -49,9 +49,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\VSCode.cs" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -67,8 +64,8 @@
  <Reference Include="UnityEditor.Networking">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ <Reference Include="Scripts">
+ <HintPath>/home/bruce/fsharp/MadAvians/Assets/Dlls/Scripts.dll</HintPath>
  </Reference>
  <Reference Include="FSharp.Core">
  <HintPath>/home/bruce/fsharp/MadAvians/Assets/Dlls/FSharp.Core.dll</HintPath>
@@ -97,10 +94,6 @@
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{B6F6B8C4-1A62-2127-4E7B-03D34AE7DF5B}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,12 +1,10 @@
 ﻿<Properties StartupItem="Scripts/Scripts.fsproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Scripts/Scripts/Resetter.fs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scripts/Scripts/ProjectileDragging.fs">
     <Files>
-      <File FileName="Scripts/AssemblyInfo.fs" Line="1" Column="1" />
-      <File FileName="Scripts/Scripts/ProjectileDragging.fs" Line="1" Column="1" />
-      <File FileName="Scripts/Scripts/Resetter.fs" Line="42" Column="54" />
+      <File FileName="Scripts/Scripts/ProjectileDragging.fs" Line="31" Column="80" />
+      <File FileName="Scripts/Scripts/Resetter.fs" Line="1" Column="1" />
       <File FileName="Scripts/Scripts/ProjectileFollow.fs" Line="1" Column="1" />
-      <File FileName="Scripts/Scripts/SimpleScript.fs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -17,3 +17,5 @@
 /home/bruce/fsharp/MadAvians/Temp/bin/Debug/Unity.CecilTools.dll
 /home/bruce/fsharp/MadAvians/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /home/bruce/fsharp/MadAvians/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/home/bruce/fsharp/MadAvians/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/home/bruce/fsharp/MadAvians/Temp/bin/Debug/UnityEngine.Analytics.dll

@@ -29,6 +29,7 @@
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>..\..\..\..\..\..\opt\Unity\Editor\Data\Managed\UnityEngine.dll</HintPath>
+      <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -36,7 +37,7 @@
     <Compile Include="Scripts\ProjectileDragging.fs" />
     <Compile Include="Scripts\ProjectileFollow.fs" />
     <Compile Include="Scripts\Resetter.fs" />
-    <Compile Include="Scripts\SimpleScript.fs" />
+    <Compile Include="Scripts\TargetDamage.fs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\..\Microsoft SDKs\F#\3.1\Framework\v4.0\Microsoft.FSharp.Targets" />
   <ItemGroup>

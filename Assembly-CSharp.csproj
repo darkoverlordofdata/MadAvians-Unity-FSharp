@@ -48,11 +48,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\ProjectileDragging.cs" />
+     <Compile Include="Assets\Scripts\ProjectileFollow.cs" />
+     <Compile Include="Assets\Scripts\Resetter.cs" />
      <Compile Include="Assets\Scripts\TargetDamage.cs" />
      <Compile Include="Assets\Scripts\TouchManager.cs" />
-     <Compile Include="Assets\Scripts\csharp\ProjectileDragging.cs" />
-     <Compile Include="Assets\Scripts\csharp\ProjectileFollow.cs" />
-     <Compile Include="Assets\Scripts\csharp\Resetter.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
@@ -64,6 +64,9 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="Scripts">
+ <HintPath>/home/bruce/fsharp/MadAvians/Assets/Dlls/Scripts.dll</HintPath>
  </Reference>
  <Reference Include="FSharp.Core">
  <HintPath>/home/bruce/fsharp/MadAvians/Assets/Dlls/FSharp.Core.dll</HintPath>
